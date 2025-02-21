@@ -1,0 +1,47 @@
+cifar10_classifier_load_path = {
+    'DenseNet121': 'classifier/cifar10/GoogLeNet_0.53.pt',
+    'DPN26': 'classifier/cifar10/ResNet18_0.39.pt',
+    'GoogLeNet': None,
+    'MobileNetV2': None,
+    'PyramidNet110': None,
+    'RegNetX_200MF': None,
+    'ResNet34': None,
+    'ResNeXt29_2x64d': None,
+    'SENet34': None,
+    'WideResNet28x10': None,
+    'VGG19': None,
+    'ShuffleNetV2_20': None,
+    'ResNet50V2': None,
+}
+
+cifar100_classifier_load_path = {
+    'DenseNet121': None,
+    'DPN26': None,
+    'GoogLeNet': None,
+    'MobileNetV2': None,
+    'PyramidNet164': None,
+    'RegNetX_200MF': None,
+    'ResNet34': None,
+    'ResNeXt29_2x64d': None,
+    'SENet34': None,
+    'WideResNet28x10': None,
+    'VGG19': None,
+    'ShuffleNetV2_20': None,
+    'ResNet50V2': None,
+}
+
+miniimagenet_classifier_load_path = {
+    'DenseNet121': None,
+    'DPN26': None,
+    'GoogLeNet': None,
+    'MobileNetV2': None,
+    'PyramidNet110': None,
+    'RegNetX_200MF': None,
+    'ResNet34': None,
+    'ResNeXt29_2x64d': None,
+    'SENet34': None,
+    'WideResNet28x10': None,
+    'VGG19': None,
+    'ShuffleNetV2_20': None,
+    'ResNet50V2': None,
+}
