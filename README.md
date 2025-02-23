@@ -35,7 +35,7 @@ You can train various classifiers with `train_pretrained_model.py`.
 ## The TSM guides the training of the BDM
 
 * For ResNet34 on CIFAR-10
-  `python train_AGT_defense_model.py --tar_model_name XXXX --tar_model_load_path XXXX --def_model_load_path XXXX --tsm_load_path XXXX  --dataset_name  cifar10  --AGT_num 1`
+  `python train_AGT_bdm.py --tar_model_name XXXX --tar_model_load_path XXXX --def_model_load_path XXXX --tsm_load_path XXXX  --dataset_name  cifar10  --AGT_num 1`
 
 ## The BDM guides the training of the TSM
 
